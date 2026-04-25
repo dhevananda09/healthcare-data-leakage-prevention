@@ -35,6 +35,26 @@ An AI-based web application that detects and prevents sensitive healthcare data 
 3. Open browser
    http://127.0.0.1:5000
 
+## 📸 Screenshots
+
+### 🔐 Login Page
+
+![Login](login.png)
+
+### 🔢 OTP Verification
+
+![Email OTP](emailotp.png)
+![TOTP](totp.png)
+
+### 📊 Dashboard
+
+![Dashboard](dashboard1.png)
+![Dashboard](dashboard2.png)
+
+### 🏠 Home Page
+
+![Home](home.png)
+
 ## 💡 Future Improvements
 
 * Real-time hospital integration
