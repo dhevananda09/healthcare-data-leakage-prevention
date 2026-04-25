@@ -1,0 +1,89 @@
+body {
+font-family: Arial;
+margin:0;
+background:#f4f6f9;
+}
+
+/* Navbar */
+.navbar{
+background:#0b3d91;
+color:white;
+padding:15px;
+display:flex;
+justify-content:space-between;
+}
+
+.navbar a{
+color:white;
+margin-left:20px;
+text-decoration:none;
+}
+
+/* Container */
+.container{
+padding:40px;
+}
+
+/* Form */
+.form-grid{
+display:grid;
+grid-template-columns: repeat(2, 300px);
+gap:15px;
+}
+
+select, input, button{
+padding:10px;
+border-radius:5px;
+border:1px solid #ccc;
+}
+
+button{
+background:#0b3d91;
+color:white;
+cursor:pointer;
+}
+
+/* Login */
+.login-bg{
+background:#0b3d91;
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+}
+
+.login-box{
+background:white;
+padding:40px;
+border-radius:10px;
+width:300px;
+text-align:center;
+}
+
+.tagline{
+color:gray;
+}
+
+/* Result */
+.result-box{
+margin-top:30px;
+padding:20px;
+background:white;
+border-radius:10px;
+}
+
+.danger{
+color:red;
+}
+
+/* Table */
+table{
+width:100%;
+border-collapse:collapse;
+background:white;
+}
+
+th, td{
+padding:10px;
+border-bottom:1px solid #ddd;
+}

@@ -1,0 +1,7 @@
+flask
+pandas
+numpy
+joblib
+matplotlib
+secure-smtplib
+scikit-learn
